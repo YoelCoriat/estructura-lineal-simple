@@ -10,3 +10,11 @@ Ejemplo de salida:
 
 ¡Hola, Juan! Tienes 25 años y vives en Madrid.
 (Cada participante del grupo le debe agregar mas información al código para que, una vez completado, la salida sea una historia sobre el protagonista)
+
+Desarrollado por: 
+
+Yoel Coriat
+
+Maryane Holt
+
+Jose De Gracia
